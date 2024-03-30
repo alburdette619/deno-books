@@ -4,4 +4,4 @@
  *
  * @module
  */
-export { getBook, searchBook } from './src/util.ts';
+export { getBook, searchBook, searchByBookInfo } from './src/util.ts';
